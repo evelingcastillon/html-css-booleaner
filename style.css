@@ -9,3 +9,19 @@ thead {
 .spazio {
     width: 200px;
 }
+h3 {
+    color: gray;
+}
+
+.title-link {
+    color: white;
+    height: 150px;
+    width: 200px;
+    background-size: cover;
+}
+#link1 {
+    background-image: url('./img/monitor.jpg');
+}
+#link2 {
+    background-image: url('./img/graph.jpg');
+}
