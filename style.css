@@ -1,3 +1,16 @@
+
+.img-pattern {
+    width: 1500px;
+    height: 100px;
+    /* text-align: left; */
+    background-image: url('./img/pattern.png');
+    background-color: dodgerblue;
+}
+
+.logo {
+    height: 50px;
+    align: bottom;
+}
 thead {
     background-color: DodgerBlue;
     text-align: left;
@@ -24,4 +37,7 @@ h3 {
 }
 #link2 {
     background-image: url('./img/graph.jpg');
+}
+span {
+    background-color: gold;
 }
