@@ -1,0 +1,11 @@
+thead {
+    background-color: DodgerBlue;
+    text-align: left;
+    color: white;
+}
+.tbody-color {
+    background-color: skyblue;
+}
+.spazio {
+    width: 200px;
+}
